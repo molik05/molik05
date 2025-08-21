@@ -1,4 +1,5 @@
-## Hi there 👋
+- My bachelor's thesis:
+- My master's thesis:
 
 <!--
 **molik05/molik05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
