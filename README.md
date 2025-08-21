@@ -1,5 +1,5 @@
-- My bachelor's thesis:
-- My master's thesis:
+- My bachelor's thesis: [Zpracování a analýza lidského plicního mikrobiomu z nanopórových sekvenačních dat](https://www.vut.cz/studenti/zav-prace/detail/150820)
+- My master's thesis: [Vývoj interaktivní Shiny aplikace pro vizualizaci somatických variant](https://www.vut.cz/studenti/zav-prace/detail/167531)
 
 <!--
 **molik05/molik05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
